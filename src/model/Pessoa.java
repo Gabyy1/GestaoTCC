@@ -43,8 +43,5 @@ public class Pessoa {
 		this.cpf = cpf;
 	}
 	
-	public void cadastrar() {
-		
-	}
 
 }

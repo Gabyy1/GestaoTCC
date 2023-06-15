@@ -12,7 +12,4 @@ public class ProfessorTG extends Professor {
 		this.numProfTG = numProfTG;
 	}
 	
-	public void cadastrar() {
-		
-	}
 }

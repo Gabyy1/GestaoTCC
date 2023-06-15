@@ -18,7 +18,4 @@ public class Aluno extends Pessoa{
 		this.curso = curso;
 	}
 
- public void cadasrar() {
-	 
- }
 }

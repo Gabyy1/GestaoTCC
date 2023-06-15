@@ -13,7 +13,5 @@ public class Professor extends Pessoa{
 		this.numProfessor = numProfessor;
 	}
 	
-	public void cadastrar() {
-		
-	}
+
 }
